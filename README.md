@@ -1,3 +1,13 @@
+cd project 
+
+npm install
+
+npm run dev
+
+ Local:   http://localhost:5173/     =======>>>> click on follow link
+
+
+*********************************************************************************************************************************************
 
 PS C:\Users\Dell\Downloads\ELMS PROJECT> cd project 
 PS C:\Users\Dell\Downloads\ELMS PROJECT\project> npm install
